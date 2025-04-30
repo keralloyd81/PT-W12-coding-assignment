@@ -4,9 +4,9 @@
 
 A simple CRD (Create, Read, Delete) web app using HTML, JavaScript, Bootstrap, and `json-server`.
 
-## 🔥 How to Run the App
+##  How to Run the App
 
-### 1. Clone the Repo
+### 1. Clone the repo
 
 git clone https://github.com/your-username/recipe-tracker.git
 cd recipe-tracker
