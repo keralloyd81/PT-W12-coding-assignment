@@ -8,8 +8,8 @@ A simple CRD (Create, Read, Delete) web app using HTML, JavaScript, Bootstrap, a
 
 ### 1. Clone the repo
 
-git clone https://github.com/your-username/recipe-tracker.git
-cd recipe-tracker
+git clone https://github.com/keralloyd81/PT-W12-coding-assignment
+
 
 2. Install json-server:
 npm install -g json-server
