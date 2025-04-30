@@ -1,16 +1,3 @@
 {
-  "recipes": [
-    {
-      "id": "6ac6",
-      "name": "shepherds pie",
-      "ingredients": "potatoes, meat, cheese",
-      "instructions": "layer and bake"
-    },
-    {
-      "id": "7dc8",
-      "name": "Chocolate Pie",
-      "ingredients": "cocoa, flour, sugar",
-      "instructions": "bake and enjoy"
-    }
-  ]
+  "recipes": []
 }
